@@ -1,0 +1,66 @@
+body {
+    font-family: "Montserrat";
+  }
+  .badger-icon {
+    width: 60%;
+  }
+  #page-container {
+    background-color: #cbf1f5;
+    color: #71c9ce;
+    min-height: 100vh;
+    position: relative;
+    text-align: center;
+  }
+  .navbar {
+    padding:10px 50px 0 50px;
+    margin-bottom: 50px;
+  }
+  .navbar-brand {
+    font-size: 2.5rem;
+  }
+  .nav-item {
+    padding: 0 18px;
+  }
+  .nav-link {
+    font-size: 1.2rem;
+    color: #71c9ce;
+  }
+  .W-Icon {
+    width: 52px;
+    height: 72px;
+  }
+  .intro-message {
+    color: #522546;
+    font-family: "Alfa Slab One", cursive;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+  }
+   .row{
+      width:100%;
+  }
+  .col-lg-6 {
+    text-align: center;
+    margin: auto 0 auto 0;
+    padding:0;
+    border:none;
+  }
+ 
+  .sign-btn {
+    margin: 5% 3% 5% 0;
+  }
+  .footer {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.7rem;
+    text-align: center;
+    margin-bottom: 0;
+  }
+.tripplet{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+  
