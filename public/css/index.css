@@ -2,7 +2,7 @@ body {
     font-family: "Montserrat";
   }
   .badger-icon {
-    width: 60%;
+    width: 50%;
   }
   #page-container {
     background-color: #cbf1f5;
@@ -60,7 +60,13 @@ body {
     margin-bottom: 0;
   }
 .tripplet{
-    padding-top:50px;
+  font-size: 1.5rem;
+    padding-top:100px;
     padding-bottom: 50px;
+}
+.sign-up{
+
+}
+.form-group{
 }
   

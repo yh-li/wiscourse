@@ -1,6 +1,4 @@
 <%- include("partials/header"); %>
-    <section id="page-container">
-        <%- include("partials/navbar");%>
 
         <div class="row">
             <div class="col-lg-6">
@@ -9,10 +7,10 @@
             <div class="col-lg-6">
                 <p class="intro-message">Success as a badger</p>
                 <form>
-                <button type="button" class="sign-btn btn btn-outline-primary">
+                <button type="button" class="sign-btn btn btn-outline-primary" onclick="window.location.href='/login';">
                     <i class="fas fa-sign-in-alt"></i> Sign In
                 </button>
-                <button type="button" class="sign-btn btn btn-outline-dark">
+                <button type="button" class="sign-btn btn btn-outline-dark" onclick="window.location.href='/sign-up';">
                     <i class="fas fa-user-plus"></i> Sign Up
                 </button>
                 </form>
